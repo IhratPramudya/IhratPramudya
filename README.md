@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Halo semua! 
 
-Perkenalkan nama saya **Ihrat Pramudya**.\
+Perkenalkan nama saya **Ihrat Pramudya**.
 
 Saya seorang **Software Developer**.
 
