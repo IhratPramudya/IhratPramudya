@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,  <a href="http://harshsoni.me/Portfolio2022" target="blank">Harsh-hashfx</a> here...</h1> 
+<h1 align="center">Hi 👋,  Ihrat Pramudya</h1> 
 <h3 align="center">A passionate developer from India</h3>  
   
   
