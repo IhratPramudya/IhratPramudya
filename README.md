@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="text-align: center">
   	<h1>Ihrat Pramudya</h1>
 </p>
 
