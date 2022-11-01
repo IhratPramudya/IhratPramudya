@@ -217,4 +217,4 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=username=Ashutosh00710&theme=draculaine=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/IhratPramudya/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
