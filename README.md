@@ -42,11 +42,11 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
- [![GitHub Streak](https://streak-stats.demolab.com?user=IhratPramudya&theme=dark&hide_border=true&border_radius=7&locale=id)](https://git.io/streak-stats)
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=IhratPramudya&theme=dark&hide_border=true&border_radius=7&locale=id)](https://git.io/streak-stats)
 <p align="left">
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
