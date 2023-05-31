@@ -1,4 +1,4 @@
-<div>
+<div style="display: flex">
   	<h1 style="text-align: center">Ihrat Pramudya</h1>
 </div>
 
