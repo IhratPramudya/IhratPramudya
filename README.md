@@ -1,5 +1,5 @@
-<p text-align="center" style="text-align: center">
-  	<h1>Ihrat Pramudya</h1>
+<p align="center">
+  	<h1 style="text-align: center">Ihrat Pramudya</h1>
 </p>
 
 <p align="center">
