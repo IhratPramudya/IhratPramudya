@@ -36,27 +36,6 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="CSS" src="https://img.shields.io/badge/CSS-orange.svg?logo=CSS&logoColor=black"></a>
 </p>
 
-### 🧰 Frameworks and libraries
-
-<p>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-</p>
-
-### 🗄️ Databases and cloud hosting
-
-<p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-
-</p>
-
-### 💻 Software and tools
-
-<p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-
-</p>
 
 ### 💻 My Project And Code 
 
