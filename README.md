@@ -60,5 +60,5 @@
 
 <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/IhratPramudya" alt="@denvercoder1&#39;s Holopin board"></a></p>
 
-![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=davidnasrulloh&show_icons=true&theme=radical)
+![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=IhratPramudya&show_icons=true&theme=radical)
 
