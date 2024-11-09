@@ -37,10 +37,7 @@
 <br/>
 
 <!-- GitHub Star link -->
-<p align="center">
-  <a href="https://stars.github.com/profiles/IhratPramudya/">
-    <img src="https://github.com/DenverCoder1/IhratPramudya/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
-</p>
+
 
 
 
