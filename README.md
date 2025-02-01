@@ -11,6 +11,39 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=developer;experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+
+### Hi there, I'm Ihrat Pramudya 👋
+
+I'm a **Front-End Developer** passionate about building sleek and efficient user interfaces. I specialize in modern front-end technologies and love crafting seamless user experiences.
+
+## 🚀 Tech Stack
+
+### Front-End
+- **Languages:** JavaScript (ES6+), TypeScript
+- **Frameworks/Libraries:** React.js, Next.js
+- **Styling:** Tailwind CSS, CSS3, SCSS, Styled Components
+- **State Management:** Redux, Zustand, React Context API
+- **UI Components:** ShadCN, Material UI, Ant Design
+
+### Tools & Development
+- **Version Control:** Git, GitHub
+- **Package Managers:** NPM, Yarn, PNPM
+- **Build Tools:** Vite, Webpack
+- **Testing:** Jest, React Testing Library
+- **Others:** ESLint, Prettier, Husky
+
+### Deployment & CI/CD
+- **Hosting:** Vercel, Netlify
+- **CI/CD:** GitHub Actions
+
+## 📫 Let's Connect
+- GitHub: [Your GitHub Profile](https://github.com/IhratPramudya)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/IhratPramudya)
+- Portfolio: [Your Portfolio Website](https://yourwebsite.com)
+
+💡 Always eager to learn new technologies and contribute to open-source projects! 🚀
+
+
 <!-- Social icons section -->
 <p align="center">
 <!--   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -46,37 +79,4 @@
 <!-- <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p> -->
 
 ![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=IhratPramudya&show_icons=true&theme=radical)
-
-
-### Hi there, I'm [Your Name] 👋
-
-I'm a **Front-End Developer** passionate about building sleek and efficient user interfaces. I specialize in modern front-end technologies and love crafting seamless user experiences.
-
-## 🚀 Tech Stack
-
-### Front-End
-- **Languages:** JavaScript (ES6+), TypeScript
-- **Frameworks/Libraries:** React.js, Next.js
-- **Styling:** Tailwind CSS, CSS3, SCSS, Styled Components
-- **State Management:** Redux, Zustand, React Context API
-- **UI Components:** ShadCN, Material UI, Ant Design
-
-### Tools & Development
-- **Version Control:** Git, GitHub
-- **Package Managers:** NPM, Yarn, PNPM
-- **Build Tools:** Vite, Webpack
-- **Testing:** Jest, React Testing Library
-- **Others:** ESLint, Prettier, Husky
-
-### Deployment & CI/CD
-- **Hosting:** Vercel, Netlify
-- **CI/CD:** GitHub Actions
-
-## 📫 Let's Connect
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourname)
-- Portfolio: [Your Portfolio Website](https://yourwebsite.com)
-
-💡 Always eager to learn new technologies and contribute to open-source projects! 🚀
-
 
